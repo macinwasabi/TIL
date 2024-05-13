@@ -30,4 +30,9 @@ POJO(Plain Old Java Object:普通のJava)について。
 
 ### 特定の機能についてのページ
 
+- モジュール：[モジュールシステムを学ぶ - Qiita](https://qiita.com/opengl-8080/items/93c8e0cf58654d5f73cb)、[【Java】モジュール](https://qiita.com/suema0331/items/121e23300527832cc117)
+- [【Java】Serializableの実装、役割、使い方、危険性とその対策【serialVersionUIDとは】](https://debimate.jp/2021/02/20/【java】serializableの実装、役割、使い方、危険性とその対/)
+
 ### 個人的メモ
+
+- ほとんどのJavaコンパイラではpublicクラスのクラス名とファイル名を同じにしなくてはならない。大文字小文字が異なっていてもダメ。
