@@ -63,6 +63,7 @@
 
 ## 外部リンク
 
+- [MVC、3 層アーキテクチャから設計を学び始めるための基礎知識 - Qiita](https://qiita.com/os1ma/items/7a229585ebdd8b7d86c2)
 - [ドメイン駆動設計(DDD)・オニオンアーキテクチャとは？ - Qiita](https://qiita.com/k_yamaki/items/bf99d3bf64a84258a3a1)：オニオンアーキテクチャ入門。
 - [オニオンアーキテクチャとは何か - Qiita](https://qiita.com/cocoa-maemae/items/e3f2eabbe0877c2af8d0)：オニオンアーキテクチャ入門。(TODO:上のリンクとどちらかだけでいいのでは)
 - [ドメイン駆動設計で実装を始めるのに一番とっつきやすいアーキテクチャは何か](https://little-hands.hatenablog.com/entry/2017/10/04/231743)：オニオン、クリーン入門。
