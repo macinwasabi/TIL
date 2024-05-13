@@ -6,7 +6,6 @@ Today I learnedリポジトリ.
   - [設計、概念などの知識](#設計概念などの知識)
   - [プログラミング言語など](#プログラミング言語など)
     - [IDE](#ide)
-      - [VSCode](#vscode)
     - [Java](#java)
   - [AWS](#aws)
 
@@ -16,7 +15,8 @@ Today I learnedリポジトリ.
 
 ### IDE
 
-#### [VSCode](./VSCode/)
+- [VSCode](./IDE/README.md#vscode)
+- [Eclipse](./IDE/README.md#eclipse)
 
 ### [Java](./Java/)
 
