@@ -7,6 +7,7 @@
       - [Seasar2](#seasar2)
   - [POJO](#pojo)
     - [総括的なページ](#総括的なページ)
+    - [WEB+DBの記事](#webdbの記事)
     - [特定の機能についてのページ](#特定の機能についてのページ)
     - [個人的メモ](#個人的メモ)
 
@@ -27,6 +28,8 @@ POJO(Plain Old Java Object:普通のJava)について。
 ひしだまさんのページ
 - [Java](http://www.ne.jp/asahi/hishidama/home/tech/java/index.html)
 - [新機能メモ](http://www.ne.jp/asahi/hishidama/home/tech/java/uptodate.html)
+
+### WEB+DBの記事
 
 ### 特定の機能についてのページ
 
