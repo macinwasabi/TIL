@@ -2,9 +2,13 @@
 
 - [Java](#java)
   - [POJO以外](#pojo以外)
+    - [ビルドツール](#ビルドツール)
+      - [Maven](#maven)
+      - [Gradle](#gradle)
     - [フレームワーク](#フレームワーク)
       - [Spring](#spring)
       - [Seasar2](#seasar2)
+      - [JUnit](#junit)
   - [POJO](#pojo)
     - [総括的なページ](#総括的なページ)
     - [WEB+DBの記事](#webdbの記事)
@@ -13,11 +17,30 @@
 
 ## POJO以外
 
+### ビルドツール
+
+- [ビルドツール make / ant / maven / gradle ざっくり理解メモ - Qiita](https://qiita.com/MahoTakara/items/ff73338e218b656bedfa)
+
+#### Maven
+
+- [Mavenの基本勉強メモ - Qiita](https://qiita.com/opengl-8080/items/bb32732f9aa5cb3495d2)
+- [Maven関連](http://www.sangyo-rock.com/tech/index.php?Maven%B4%D8%CF%A2)
+
+#### Gradle
+
+- [ただ build.gradle を読めるようになりたい - Qiita](https://qiita.com/_mi/items/4aea84f14e5b35ee6cda)
+
 ### フレームワーク
+
+- [Javaで超簡易Webフレームワークを作ってみよう - Qiita](https://qiita.com/hatimiti/items/79b6bd1003fe6bfec2f3)
 
 #### [Spring](./spring.md)
 
 #### Seasar2
+
+#### JUnit
+
+- [JUnit 5 ユーザーガイド](https://oohira.github.io/junit5-doc-jp/user-guide/#overview)
 
 ## POJO
 
