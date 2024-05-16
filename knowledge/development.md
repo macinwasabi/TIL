@@ -114,6 +114,14 @@ TODO:どんな仕様？
 
 TODO:要調査
 
+## 勉強したい
+
+- OpenAPI
+  - swagger-merger
+  - redoc-cli
+  - widdershins
+  - dicsify-cli
+
 ## 外部リンク
 
 - [ドメイン駆動設計(DDD)・オニオンアーキテクチャとは？ - Qiita](https://qiita.com/k_yamaki/items/bf99d3bf64a84258a3a1)
