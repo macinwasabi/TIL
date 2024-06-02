@@ -10,6 +10,7 @@
       - [WebAPIとの違い](#webapiとの違い)
       - [RPCとREST](#rpcとrest)
   - [外部リンク](#外部リンク)
+  - [疑問](#疑問)
 
 ## WebAPI
 
@@ -55,3 +56,7 @@ RPCとは「何をするか」を指定する。オブジェクト指向的に�
 [RPC と REST の違いはなんですか?](https://aws.amazon.com/jp/compare/the-difference-between-rpc-and-rest/)
 
 ## 外部リンク
+
+## 疑問
+
+- RESTならJSONプロパティはスネークらしいけどどこで決まってるの？
