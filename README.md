@@ -8,6 +8,7 @@ Today I learnedリポジトリ.
     - [IDE](#ide)
     - [Java](#java)
   - [AWS](#aws)
+  - [UML](#uml)
 
 ## [設計、概念などの知識](./knowledge/)
 
@@ -23,3 +24,5 @@ Today I learnedリポジトリ.
 POJO、フレームワークなど。
 
 ## [AWS](./AWS/)
+
+## [UML](./UML/README.md)
