@@ -42,6 +42,16 @@ class BankAccount{
 
 #### 関係
 
+ ```mermaid
+  classDiagram
+    classA <-- classB : リンク/関連
+    Depended <.. Depend : 依存
+    ContainerA o-- ContentA : 集約
+    ContainerB *-- ContentB : コンポジション
+    SuperClass <|-- SubClass : 汎化/特化
+    interface <|.. impl : 実現
+  ```
+
 - Dependency：依存
 
   片方を変更すればもう片方に変更が生じる依存。波線上にテキストをギュメ`<< >>`で囲んだもの(ステレオタイプ)をつけて、依存の種類を記す。
@@ -116,7 +126,7 @@ class BankAccount{
 
   ```mermaid
   classDiagram
-  classA <|.. classB
+  interface <|.. impl
   ```
 
 多重度
@@ -125,6 +135,8 @@ class BankAccount{
 - `1`：1つ
 - `0..*`または`*`：0こ以上
 - `1..*`；1つ以上
+
+(GitHubのmermaidの表示では非対応みたい)
 
 ```mermaid
 classDiagram
