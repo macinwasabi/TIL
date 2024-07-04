@@ -5,22 +5,10 @@
     - [インストール方法](#インストール方法)
     - [拡張機能](#拡張機能)
       - [Python](#python)
-        - [flake8：文法チェッカー](#flake8文法チェッカー)
-        - [bandit：静的解析](#bandit静的解析)
-        - [black：フォーマッター](#blackフォーマッター)
-        - [pytest](#pytest)
-        - [pytest-mock](#pytest-mock)
-        - [pytest-cov：テストフレームワーク](#pytest-covテストフレームワーク)
-        - [moto：Amazonサービスのモック(ローカルテスト用)](#motoamazonサービスのモックローカルテスト用)
-        - [boto3：AWS SDK for Python](#boto3aws-sdk-for-python)
+      - [AWS](#aws)
       - [Vue.js](#vuejs)
-        - [Vue - Official](#vue---official)
       - [Markdown](#markdown)
-        - [Markdown All in One](#markdown-all-in-one)
-        - [Markdown Preview Mermaid Support](#markdown-preview-mermaid-support)
-        - [markdownlint](#markdownlint)
       - [その他](#その他)
-        - [vscode-pets](#vscode-pets)
   - [Eclipse](#eclipse)
 
 ## VSCode
@@ -36,51 +24,50 @@
 
 #### Python
 
-Microsoft社製のPython開発用アプリ。必要であれば以下のURLの通りに確認し、ブレークポイントで止まるとこくらいまで実施をする。(Configure and run the debuggerの項まで)
+Microsoft社製のPython開発用アプリ。以下チュートリアル。
 
-[https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
+- [https://learn.microsoft.com/ja-jp/training/modules/python-install-vscode/](https://learn.microsoft.com/ja-jp/training/modules/python-install-vscode/)
+- [https://code.visualstudio.com/docs/python/python-tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
 
-##### flake8：文法チェッカー
+その他の拡張機能
 
-##### bandit：静的解析
+- flake8：文法チェッカー
+- bandit：静的解析
+- black：フォーマッター
+- pytest
+- pytest-mock
+- pytest-cov：テストフレームワーク
 
-##### black：フォーマッター
+#### AWS
 
-##### pytest
-
-##### pytest-mock
-
-##### pytest-cov：テストフレームワーク
-
-##### moto：Amazonサービスのモック(ローカルテスト用)
-
-##### boto3：AWS SDK for Python
+- moto：Amazonサービスのモック(ローカルテスト用)
+- boto3：AWS SDK for Python
 
 #### Vue.js
 
-##### [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-Vue.js用の拡張機能。マーカーとかが使えるようになる。
+  Vue.js用の拡張機能。マーカーとかが使えるようになる。
 
 #### Markdown
 
-##### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-Markdownを記載する際に便利な機能がある。
+  Markdownを記載する際に便利な機能がある。
 
-##### [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+- [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 
-Mermaidで書かれたものをプレビュー表示できる。
+  Mermaidで書かれたものをプレビュー表示できる。
 
-##### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-lintが表示され、フォーマットする際にも使用。
+  lintが表示され、フォーマットする際にも使用。
 
 #### その他
 
-##### [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+- [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
-VSCode上でペットがうろうろする拡張機能。
+  VSCode上でペットがうろうろする拡張機能。
 
 ## Eclipse
 
