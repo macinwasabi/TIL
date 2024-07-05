@@ -15,6 +15,7 @@
   - [プログラミング関連](#プログラミング関連)
     - [DRY](#dry)
   - [DevOps](#devops)
+  - [DecSecOps](#decsecops)
     - [外部リンク](#外部リンク)
   - [CI](#ci)
   - [CD](#cd)
@@ -64,6 +65,12 @@ Don't Repeat Yourself.
 具体的にはCI/CD、マイクロサービス化、IaCなどを行なっていく。
 
 アジャイルを実現しようとすると、DevOps的な考え方やアプローチが必要なことがある。
+
+## DecSecOps
+
+DevOpsにセキュリティを合わせたもの。DevOpsでは開発後にしていたセキュリティ対策を、前倒しで実施することで問題の早期検出などをして対応コストを減らす。
+
+参考：[【DevSecOpsとは？】入門者向けにメリットなどの概要をわかりやすく解説 - FUJITSU](https://www.fujitsu.com/jp/products/software/resources/feature-stories/postgres/what-is-devsecops/)
 
 ### 外部リンク
 
