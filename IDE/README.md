@@ -1,7 +1,6 @@
 # IDE
 
 - [IDE](#ide)
-  - [IDEについて](#ideについて)
   - [VSCode](#vscode)
     - [インストール方法](#インストール方法)
     - [拡張機能](#拡張機能)
@@ -11,10 +10,6 @@
       - [Markdown](#markdown)
       - [その他](#その他)
   - [Eclipse](#eclipse)
-
-## IDEについて
-
-- [Language Server Protocol の仕様 及び実装方法](https://zenn.dev/mtshiba/books/language_server_protocol/viewer/02_introduction)
 
 ## VSCode
 

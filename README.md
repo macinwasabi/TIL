@@ -21,8 +21,6 @@ Today I learnedリポジトリ.
 
 ### [Java](./Java/)
 
-POJO、フレームワークなど。
-
 ## [AWS](./AWS/)
 
 ## [UML](./UML/README.md)

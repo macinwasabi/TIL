@@ -18,7 +18,6 @@
       - [OpenAPI](#openapi)
       - [GraphQL](#graphql)
   - [勉強したい](#勉強したい)
-  - [外部リンク](#外部リンク)
 
 ## モデル駆動開発(MDD)
 
@@ -122,7 +121,3 @@ TODO:要調査
   - redoc-cli
   - widdershins
   - dicsify-cli
-
-## 外部リンク
-
-- [ドメイン駆動設計(DDD)・オニオンアーキテクチャとは？ - Qiita](https://qiita.com/k_yamaki/items/bf99d3bf64a84258a3a1)
