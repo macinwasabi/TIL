@@ -9,6 +9,8 @@
       - [RESTful](#restful)
       - [WebAPIとの違い](#webapiとの違い)
       - [RPCとREST](#rpcとrest)
+  - [デザインパターン](#デザインパターン)
+    - [Abstract FactoryとFactory Methodについて](#abstract-factoryとfactory-methodについて)
   - [外部リンク](#外部リンク)
   - [疑問](#疑問)
 
@@ -54,6 +56,23 @@ REST風ということでREST-ishと言うこともある。
 RPCとは「何をするか」を指定する。オブジェクト指向的に言うと、ウェブサーバーを通して公開される静的なインスタンスをURLを通じて発見し、そのメソッドを呼ぶ。
 
 [RPC と REST の違いはなんですか?](https://aws.amazon.com/jp/compare/the-difference-between-rpc-and-rest/)
+
+## デザインパターン
+
+### Abstract FactoryとFactory Methodについて
+
+- Abstract Factory
+
+  どう部品を生成するかは置いといて、複数の部品から製品を生成する、ということをインターフェースとサブクラスに分けた。
+
+- Factory Method
+
+  利用するインスタンスの生成をサブクラスに任せ、メインの処理だけ用意(ここはTemplate Method)する。
+
+- したがって、Abstract Factoryはインスタンス生成をFactory MethodでやったりPrototypeでやったりする。
+
+- そしたら、Factory MethodはAbstract Factoryである、と言えてしまいそう。
+Factory MethodでありAbstract Factoryでない部分というのは、
 
 ## 外部リンク
 
