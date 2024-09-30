@@ -11,6 +11,8 @@
       - [RPCとREST](#rpcとrest)
   - [デザインパターン](#デザインパターン)
     - [Abstract FactoryとFactory Methodについて](#abstract-factoryとfactory-methodについて)
+  - [StrategyとFacadeとMediator？の違い](#strategyとfacadeとmediatorの違い)
+  - [VisitorとCompositeの違い](#visitorとcompositeの違い)
   - [外部リンク](#外部リンク)
   - [疑問](#疑問)
 
@@ -73,6 +75,10 @@ RPCとは「何をするか」を指定する。オブジェクト指向的に�
 
 - そしたら、Factory MethodはAbstract Factoryである、と言えてしまいそう。
 Factory MethodでありAbstract Factoryでない部分というのは、
+
+## StrategyとFacadeとMediator？の違い
+
+## VisitorとCompositeの違い
 
 ## 外部リンク
 
