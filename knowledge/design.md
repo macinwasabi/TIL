@@ -11,8 +11,10 @@
       - [RPCとREST](#rpcとrest)
   - [デザインパターン](#デザインパターン)
     - [Abstract FactoryとFactory Methodについて](#abstract-factoryとfactory-methodについて)
-  - [StrategyとFacadeとMediator？の違い](#strategyとfacadeとmediatorの違い)
-  - [VisitorとCompositeの違い](#visitorとcompositeの違い)
+    - [StrategyとFacadeとMediatorの違い](#strategyとfacadeとmediatorの違い)
+    - [VisitorとCompositeの違い](#visitorとcompositeの違い)
+    - [AdapterとBridgeの違い](#adapterとbridgeの違い)
+    - [　その他のデザインパターンの疑問](#その他のデザインパターンの疑問)
   - [外部リンク](#外部リンク)
   - [疑問](#疑問)
 
@@ -67,18 +69,21 @@ RPCとは「何をするか」を指定する。オブジェクト指向的に�
 
   どう部品を生成するかは置いといて、複数の部品から製品を生成する、ということをインターフェースとサブクラスに分けた。
 
+  生成はFactory MethodでやったりPrototypeでやったりする。
+
 - Factory Method
 
   利用するインスタンスの生成をサブクラスに任せ、メインの処理だけ用意(ここはTemplate Method)する。
 
-- したがって、Abstract Factoryはインスタンス生成をFactory MethodでやったりPrototypeでやったりする。
+### StrategyとFacadeとMediatorの違い
 
-- そしたら、Factory MethodはAbstract Factoryである、と言えてしまいそう。
-Factory MethodでありAbstract Factoryでない部分というのは、
+### VisitorとCompositeの違い
 
-## StrategyとFacadeとMediator？の違い
+### AdapterとBridgeの違い
 
-## VisitorとCompositeの違い
+### 　その他のデザインパターンの疑問
+
+- DecoratorってConcreteComponentが無ければComponentとDecoratorは同じでもいいのでは？
 
 ## 外部リンク
 
